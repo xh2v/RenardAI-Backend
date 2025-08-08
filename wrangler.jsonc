@@ -1,0 +1,7 @@
+{
+  "name": "renardai",
+  "main": "src/index.js",
+  "compatibility_date": "2025-08-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "modules": true
+}
